@@ -3,10 +3,14 @@
   <img src="https://raw.githubusercontent.com/tinyrobotcompany/tinyrobotcompany/main/public/brand/mascot.svg" width="180" alt="Tiny Robot Company mascot">
 </p>
 
-<h1 align="center">Tiny Robot Company</h1>
+<h1 align="center">The Little Systems Company</h1>
 
 <p align="center">
   <em>Small things that think, move, and — occasionally — misbehave.</em>
+</p>
+
+<p align="center">
+  <em>The Little Systems Company builds robotics, AI systems, and practical GenAI for small and mid-sized manufacturers — building, education and consultancy from a workshop of one.</em>
 </p>
 
 <p align="center">
