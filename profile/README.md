@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <a href="https://tinyrobotcompany.io"><strong>tinyrobotcompany.io</strong></a>
+  <a href="https://thelittlesystemscompany.io"><strong>tinyrobotcompany.io</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://www.instagram.com/tinyrobotcompany/">Instagram</a> ·
+  <a href="https://www.instagram.com/thelittlesystemscompany/">Instagram</a> ·
   <a href="https://www.tiktok.com/@tinyrobotcompany">TikTok</a> ·
   <a href="https://www.youtube.com/@tinyrobotcompany">YouTube</a>
 </p>
