@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://thelittlesystemscompany.io"><strong>tinyrobotcompany.io</strong></a>
+  <a href="https://thelittlesystemscompany.io"><strong>thelittlesystemscompany.io</strong></a>
 </p>
 
 <p align="center">
